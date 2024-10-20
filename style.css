@@ -1,0 +1,174 @@
+button{
+    border: none;
+    background-color: white;
+    border-radius: 3px;
+}
+.container{
+    background-color: wheat;
+    height: 300px;
+    width: 600px;
+    border-radius: 15px;
+    position: relative;
+}
+body{
+    background-color: grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 1000px;
+    min-width: 1000px;
+}
+h2{
+    position: absolute;
+    left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    position: absolute;
+    left: 20px;
+    top: 60px;
+}
+.box1{
+    background-color:azure;
+    height: 180px;
+    width: 150px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
+.photo1{
+    width: 130px;
+    height: 80px;
+    border-radius: 15px;
+}
+.photo2{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+}
+.photo3{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+}
+.miniphotos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.positions1{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+h4{
+    font-family: sans-serif;
+}
+.words{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.box2{
+    background-color:azure;
+    height: 180px;
+    width: 150px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+.photo4{
+    width: 130px;
+    height: 80px;
+    border-radius: 15px;
+}
+.photo5{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+}
+.photo6{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+}
+.miniphotos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.positions2{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+h4{
+    font-family: sans-serif;
+}
+.words{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.box3{
+    background-color:azure;
+    height: 180px;
+    width: 150px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    position: absolute;
+    top: 100px;
+    left: 380px;
+}
+.photo7{
+    width: 130px;
+    height: 80px;
+    border-radius: 15px;
+}
+.photo8{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+}
+.photo9{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+}
+.miniphotos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.positions3{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+h4{
+    font-family: sans-serif;
+}
+.words{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
